@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Go, Docker, Graphql**
-- 
+
 - 🗒 I've been working in mostly private Bitbucket repos since late 2021
 
 <h3 align="left">Languages and Tools:</h3>
