@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeremiah</h1>
-<h3 align="center">A data integrations engineer. I'm interested in embedded and distributed system, open-source, and tabletop roleplaying games.</h3>
+<h2 align="center">Senior Software Engineer.</h2> 
+<h3 align="center">I'm interested in embedded and distributed system, open-source, and tabletop roleplaying games.</h3>
 
 - 🔭 I’m currently working on **finishing a master's**
 
