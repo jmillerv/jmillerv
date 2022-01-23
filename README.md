@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Go, Docker, Graphql**
+- 💬 Ask me about **PHP, Go, Docker, SQL, Graphql**
 
 - 🗒 I've been working in mostly private Bitbucket repos since late 2021
 
