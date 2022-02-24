@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **software for my favorite TTRPGs**
 
-- 🌱 I’m currently learning **Elm**
+- 🌱 I’m currently learning **hexagonal architecture**
 
 - 💬 Ask me about **PHP, Go, Docker, SQL, Graphql**
 
