@@ -2,7 +2,7 @@
 <h2 align="center">Senior Software Engineer</h2> 
 <h3 align="center">I'm interested in embedded and distributed system, open-source, and tabletop roleplaying games.</h3>
 
-- 🔭 I’m currently working on **[daily](https://github.com/jmillerv/daily), a cross-platform standup app**
+- 🔭 I’m currently working on **a radio scheduling app**
 
 - 🌱 I’m currently learning **hexagonal architecture**
 
