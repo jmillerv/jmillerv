@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a radio scheduling app**
 
-- 🌱 I’m currently learning **hexagonal architecture**
+- 🌱 I’m currently learning about **Mycroft AI**
 
 - 💬 Ask me about **PHP, Go, Docker, SQL, Graphql**
 
