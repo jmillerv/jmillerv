@@ -2,7 +2,7 @@
 <h2 align="center">Senior Software Engineer</h2> 
 <h3 align="center">I'm interested in embedded and distributed systems, FOSS, and tabletop roleplaying games.</h3>
 
-- 🔭 I’m currently working on **a radio scheduling app**
+- 🔭 I’m currently working on **[go-dj](https://github.com/jmillerv/go-dj)**
 
 - 🌱 I’m currently learning about **Mycroft AI**
 
