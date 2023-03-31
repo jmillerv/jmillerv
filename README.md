@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **[go-dj](https://github.com/jmillerv/go-dj)**
 
-- 🌱 I’m currently learning about **Mycroft AI**
+- 🌱 I’m currently learning about **Search Engines**
 
-- 💬 Ask me about **PHP, Go, Docker, SQL, Graphql**
+- 💬 Ask me about **Go, PHP, Docker, SQL, Graphql**
 
 - 🗒 I've been working in mostly private company repos since late 2021
 
