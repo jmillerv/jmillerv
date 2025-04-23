@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on slowing down the news
 
-- 🌱 I’m currently learning about **Desktop Applications**
-
 - 💬 Ask me about **Go, Pipleines, Python, PHP, Docker, SQL, Graphql, K8s**
 
 - 🗒 I've been working in mostly private company repos since late 2021
