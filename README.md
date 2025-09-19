@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working on slowing down the news
 
-- 💬 Ask me about **Go, Pipleines, Python, PHP, Docker, SQL, Graphql, K8s**
+- 💬 Ask me about **Go, Pipelines, Python, PHP, Docker, SQL, Graphql, K8s**
 
 - 🗒 I've been working in mostly private company repos since late 2021
